@@ -1,56 +1,18 @@
-<p align="center">
-    <a href="https://jayvardhanrathi.tech">
-	<img src="https://user-images.githubusercontent.com/39644109/110592126-e6fc2700-819f-11eb-9ca5-8827418963c7.png" width=80%/>
-</a>
-    
-</p>
+<h2 align="center"> Java Syntax Basics </h2>
+<h4 align="center"> A reference for using data structures in java <h4>
 
-<h2 align="center"> Insert Project Title Here </h2>
-<h4 align="center"> Insert Project Description Here <h4>
 
-## Demo - [Link](link)
-
-## :fire: Features
-
-- point 1
-- point 2
-- point 3
-- point 4
-
-## :bulb: Built Using
-
-- [**a**]()
-- [**b**]()
-- [**c**]()
-
-## :iphone: Screenshots
-
-|                                   |                                   |
-| --------------------------------- | --------------------------------- |
-| <img src="images/"  width="300"/> | <img src="images/"  width="300"/> |
-| <img src="images/" width="300"/>  | <img src="images/" width="300"/>  |
-| <img src="images/" width="300"/>  | <img src="images/" width="300"/>  |
-| <img src="images/" width="300"/>  | <img src="images/" width="300"/>  |
-| <img src="images/" width="300"/>  | <img src="images/" width="300"/>  |
-
-## Instructions to run
-
-- Pre-requisites:
-
-  - < insert pre-requisite >
-  - < insert pre-requisite >
-
-- < directions to install >
-
-```bash
-< insert code >
-```
-
-- < directions to execute >
-
-```bash
-< insert code >
-```
+| Number | Data Structure |
+|:------------:|:--------------------:|
+| `1` | Array | 
+| `2` | String|
+| `3` | Hashmap |
+| `4` | Hashset |
+| `5` | ArrayList |
+| `6` | Heap |
+| `7` | Queue |
+| `8` | Stack |
+| `9` | Linked List |
 
 <!-- LICENSE -->  
 
